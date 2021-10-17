@@ -1,0 +1,12 @@
+/home/myroslavs/Programming/Notes.Back/Notes.Domain/bin/Debug/net5.0/Notes.Domain.deps.json
+/home/myroslavs/Programming/Notes.Back/Notes.Domain/bin/Debug/net5.0/Notes.Domain.dll
+/home/myroslavs/Programming/Notes.Back/Notes.Domain/bin/Debug/net5.0/ref/Notes.Domain.dll
+/home/myroslavs/Programming/Notes.Back/Notes.Domain/bin/Debug/net5.0/Notes.Domain.pdb
+/home/myroslavs/Programming/Notes.Back/Notes.Domain/obj/Debug/net5.0/Notes.Domain.csproj.AssemblyReference.cache
+/home/myroslavs/Programming/Notes.Back/Notes.Domain/obj/Debug/net5.0/Notes.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/myroslavs/Programming/Notes.Back/Notes.Domain/obj/Debug/net5.0/Notes.Domain.AssemblyInfoInputs.cache
+/home/myroslavs/Programming/Notes.Back/Notes.Domain/obj/Debug/net5.0/Notes.Domain.AssemblyInfo.cs
+/home/myroslavs/Programming/Notes.Back/Notes.Domain/obj/Debug/net5.0/Notes.Domain.csproj.CoreCompileInputs.cache
+/home/myroslavs/Programming/Notes.Back/Notes.Domain/obj/Debug/net5.0/Notes.Domain.dll
+/home/myroslavs/Programming/Notes.Back/Notes.Domain/obj/Debug/net5.0/ref/Notes.Domain.dll
+/home/myroslavs/Programming/Notes.Back/Notes.Domain/obj/Debug/net5.0/Notes.Domain.pdb

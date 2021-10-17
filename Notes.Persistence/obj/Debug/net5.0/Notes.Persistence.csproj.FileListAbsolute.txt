@@ -1,0 +1,17 @@
+/home/myroslavs/Programming/Notes.Back/Notes.Persistence/bin/Debug/net5.0/Notes.Persistence.deps.json
+/home/myroslavs/Programming/Notes.Back/Notes.Persistence/bin/Debug/net5.0/Notes.Persistence.dll
+/home/myroslavs/Programming/Notes.Back/Notes.Persistence/bin/Debug/net5.0/ref/Notes.Persistence.dll
+/home/myroslavs/Programming/Notes.Back/Notes.Persistence/bin/Debug/net5.0/Notes.Persistence.pdb
+/home/myroslavs/Programming/Notes.Back/Notes.Persistence/bin/Debug/net5.0/Notes.Application.dll
+/home/myroslavs/Programming/Notes.Back/Notes.Persistence/bin/Debug/net5.0/Notes.Domain.dll
+/home/myroslavs/Programming/Notes.Back/Notes.Persistence/bin/Debug/net5.0/Notes.Application.pdb
+/home/myroslavs/Programming/Notes.Back/Notes.Persistence/bin/Debug/net5.0/Notes.Domain.pdb
+/home/myroslavs/Programming/Notes.Back/Notes.Persistence/obj/Debug/net5.0/Notes.Persistence.csproj.AssemblyReference.cache
+/home/myroslavs/Programming/Notes.Back/Notes.Persistence/obj/Debug/net5.0/Notes.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/home/myroslavs/Programming/Notes.Back/Notes.Persistence/obj/Debug/net5.0/Notes.Persistence.AssemblyInfoInputs.cache
+/home/myroslavs/Programming/Notes.Back/Notes.Persistence/obj/Debug/net5.0/Notes.Persistence.AssemblyInfo.cs
+/home/myroslavs/Programming/Notes.Back/Notes.Persistence/obj/Debug/net5.0/Notes.Persistence.csproj.CoreCompileInputs.cache
+/home/myroslavs/Programming/Notes.Back/Notes.Persistence/obj/Debug/net5.0/Notes.Persistence.csproj.CopyComplete
+/home/myroslavs/Programming/Notes.Back/Notes.Persistence/obj/Debug/net5.0/Notes.Persistence.dll
+/home/myroslavs/Programming/Notes.Back/Notes.Persistence/obj/Debug/net5.0/ref/Notes.Persistence.dll
+/home/myroslavs/Programming/Notes.Back/Notes.Persistence/obj/Debug/net5.0/Notes.Persistence.pdb

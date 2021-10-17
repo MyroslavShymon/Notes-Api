@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "gzZnwYkyXLndxSQnLfEEIMF07ZjY/YZ9a6nuU6xuI9v0jPg/O9pMATviujlf3EEOj/1XmzJ72o7XSAD04zD8cA==",
+  "dgSpecHash": "Ep54ErJ0DN+K34Mb1ZWS/inAg5x5ZHVFQekNnog/HSSvdHaMRApCI50JZfzZOujHL6w3g0O+daRyqyjD0H9hoA==",
   "success": true,
   "projectFilePath": "/home/myroslavs/Programming/Notes.Back/Notes.Persistence/Notes.Persistence.csproj",
   "expectedPackageFiles": [
     "/home/myroslavs/.nuget/packages/automapper/10.1.1/automapper.10.1.1.nupkg.sha512",
+    "/home/myroslavs/.nuget/packages/fluentvalidation/10.3.3/fluentvalidation.10.3.3.nupkg.sha512",
+    "/home/myroslavs/.nuget/packages/fluentvalidation.dependencyinjectionextensions/10.3.3/fluentvalidation.dependencyinjectionextensions.10.3.3.nupkg.sha512",
     "/home/myroslavs/.nuget/packages/mediatr/9.0.0/mediatr.9.0.0.nupkg.sha512",
     "/home/myroslavs/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/9.0.0/mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
     "/home/myroslavs/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
